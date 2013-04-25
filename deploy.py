@@ -3,6 +3,9 @@
 """
 Deploy Utility
 easy_install paramiko
+
+hi liu.zheng, this is my changed version!
+
 """
 
 import getpass
